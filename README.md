@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eli-bradford)
 ### Hi. I'm Eli
-- Software Engineer based in Nashville. Nashville Software School graduate, currently furthering my skills
+- Software Engineer at Prairie IT. Based in Nashville
 - You can reach me at elibradford227@gmail.com :)
 
 # 💻 Tech Stack:
